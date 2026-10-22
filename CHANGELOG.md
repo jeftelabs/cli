@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jeftelabs/cli/compare/v1.0.0...v1.1.0) (2026-10-22)
+
+
+### Features
+
+* **lint:** commitlint para padronizar o projeto ([b3e992e](https://github.com/jeftelabs/cli/commit/b3e992ea099fbad50a3393ec7d565d584e032bed))
+
 ## 1.0.0 (2026-10-22)
 
 
